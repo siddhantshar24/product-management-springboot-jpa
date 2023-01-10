@@ -8,6 +8,6 @@ The application is used for Storing data of products using these CRUD methods ac
 To start the project in your local:
 -Go to main folder in Intellij/Eclipse and run the application as a SpringBoot Application
 -For inserting/deleting values, use Postman and select appropriate function i.e. GET, POST, DELETE or UPDATE. For UPDATE/ POST operations, write JSON queries in the Postman Application.
+-Make sure your server is up and running before using Postman for sending requests.
 
-Thanks,
-Siddhant
+Thanks
