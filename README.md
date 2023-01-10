@@ -1,5 +1,7 @@
 # Product-Management-Springboot-JPA
-A SpringBoot- REST API Project for Product Management using CRUD applications through REST API implemented in JPA Repository.
+REST API Project for Product Management using CRUD (Create Retrieve Update Delete) applications through API implemented using JPA Repository in Springboot Framework.
+
+Technologies used: Java, SpringBoot, REST API, JPA Repository, Postman.
 
 Description about technologies used:
 REST API is used for basic CRUD operations, i.e. GET, POST, DELETE and UPDATE.
